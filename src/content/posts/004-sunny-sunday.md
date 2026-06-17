@@ -5,7 +5,7 @@ description = 'Send Kindle highlights back to your device with a free, self-host
 url = 'free-selfhosted-readwise-alternative'
 tags = [
   "ai",
-  "sunny-sunday",
+  "relego",
   "readwise",
   "kindle",
   "side-project",
@@ -30,8 +30,8 @@ To make things even more interesting, I've been using *[spec-kit](https://github
 
 Yesterday, I’ve released the *MVP* of *Sunny Sunday*, a fully working version that allows you to upload all your Kindle highlights and send them back to your Kindle through a daily or weekly recap like Readwise does. The entire experience is highly customizable: you can choose the recap frequency and time of the day, the number of the highlights in the recap, exclude books or authors, and adjust the likelihood that a highlight or book is included in the recap. At the moment it supports Kindle only, but the plan is to integrate more platforms, as inputs and outputs as well.
 
-Generally, existing platforms provide daily recap via paid subscription on managed SaaS, which also raises privacy concerns. For these reasons, I'm releasing *Sunny Sunday* for free and self-hostable. Usage guide and source code are available on [GitHub](https://github.com/Krusty93/sunny-sunday).
+Generally, existing platforms provide daily recap via paid subscription on managed SaaS, which also raises privacy concerns. For these reasons, I'm releasing *Sunny Sunday* for free and self-hostable. Usage guide and source code are available on [GitHub](https://github.com/Krusty93/relego).
 
-If you want to try it and provide feedback, feel free to comment on this post or create an [issue](https://github.com/Krusty93/sunny-sunday/issues).
+If you want to try it and provide feedback, feel free to comment on this post or create an [issue](https://github.com/Krusty93/relego/issues).
 
 In the near future, next steps include an improved and simpler setup, a landing page, and a more suitable product name. Do you have any ideas? Share them in the comments below!
